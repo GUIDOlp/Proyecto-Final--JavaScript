@@ -1,0 +1,56 @@
+[
+    {
+        "id": 777,
+        "nombre": "ACONDICIONADOR",
+        "stock": 8,
+        "precio": 1700
+    },
+    {
+        "id": 969,
+        "nombre": "BASE SOLIDA",
+        "stock": 18,
+        "precio": 1300
+    },
+    {
+        "id": 877,
+        "nombre": "CREMA FACIAL",
+        "stock": 30,
+        "precio": 1200
+    },
+    {
+        "id": 846,
+        "nombre": "DELINEADOR DE OJOS",
+        "stock": 25,
+        "precio": 1000
+    },
+    {
+        "id": 317,
+        "nombre": "JABON",
+        "stock": 14,
+        "precio": 1200
+    },
+    {
+        "id": 748,
+        "nombre": "LABIAL",
+        "stock": 60,
+        "precio": 1200
+    },
+    {
+        "id": 31,
+        "nombre": "SHAMPOO",
+        "stock": 20,
+        "precio": 1800
+    },
+    {
+        "id": 948,
+        "nombre": "SOMBRA DE OJOS",
+        "stock": 18,
+        "precio": 1400
+    },
+    {
+        "id": 715,
+        "nombre": "VELAS AROMATICAS",
+        "stock": 10,
+        "precio": 2500
+    }
+]

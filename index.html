@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <!-- link de css -->
+    <link rel="stylesheet" href="./css/estilos.css">
+    <!-- link favicon -->
+    <link rel="shortcut icon" href="./imagenes/favicon (10).ico" type="image/x-icon">
+    <link rel="icon" href="./imagenes/favicon (10).ico" type="image/x-icon">
+</head>
+<body>
+    <div class="contenedor-general">
+    <form id="form" class="form">
+        <h2 class="form-title"> Inicia Sesion</h2>
+        <div class="form-container">
+            <div class="form-group">
+                <input type="text" id="usuario" class="usuario" placeholder="Usuario">
+            </div>
+            <div class="form-group">
+                <input type="text" id="contraseña" class="contraseña" placeholder="Contraseña">  
+            </div>
+            <button id="submit" onclick="webStock();">Ingresar</button>
+            <p class="form-paragraph"> ¿No tienes cuenta? <a href="#">Entra aqui</a></p>
+    </form>
+      </div>
+       <!-- cdn sweet alert js -->
+  <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+        <!-- link de javascript -->
+<script src="./js/index.js"></script>
+</body>
+</html>
